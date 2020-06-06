@@ -10173,7 +10173,18 @@ body {
   letter-spacing: 0.15rem;
   border: 0;
 }
-
+.proj {
+  position: relative;
+  width: auto;
+  height: auto;
+  min-height: auto;
+  padding: 0.5rem 0;
+  background: #1B1B1B;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-attachment: scroll;
+  background-size: cover;
+}
 .masthead {
   position: relative;
   width: 100%;
