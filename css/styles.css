@@ -10173,6 +10173,19 @@ body {
   letter-spacing: 0.15rem;
   border: 0;
 }
+
+.back{
+  background-color: #1B1B1B;
+}
+
+.sample{
+  position: relative;
+  width: auto;
+  height: auto;
+  padding: 10rem 0;
+  color: white;
+}
+
 .proj {
   position: relative;
   width: auto;
