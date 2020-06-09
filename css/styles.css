@@ -10178,7 +10178,24 @@ body {
   background-color: #1B1B1B;
 }
 
+.textcolor{
+  color: white;
+}
+
+.projname{
+  "font-size: 25px;
+  color: white;"
+}
+
 .sample{
+  position: relative;
+  width: auto;
+  height: auto;
+  padding: 0rem 0;
+  color: white;
+}
+
+.sam{
   position: relative;
   width: auto;
   height: auto;
